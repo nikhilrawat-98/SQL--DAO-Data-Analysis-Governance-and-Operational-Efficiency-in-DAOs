@@ -1,0 +1,2 @@
+# SQL--DAO-Data-Analysis-Governance-and-Operational-Efficiency-in-DAOs
+Analyzing governance and operational efficiency in Decentralized Autonomous Organizations using data collected from various blockchain platforms such as Snapshot, Etherscan, etc. The primary objective is to explore how DAOs manage decision-making and participation, &amp; to identify key trends in governance structures using data management techniques.
